@@ -12,8 +12,6 @@ class SampleData{
       console.log(order.id + "   " + order.description + "           " + order.total + "       " order.CustomerId)    
   } 
   
-  
- 
 }
  
 let customerData: Customer[] = [
